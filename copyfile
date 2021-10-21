@@ -1,0 +1,4 @@
+#!/bin/bash
+cp /notebooks/fastbook/clean/export.pkl  .
+cp /notebooks/fastbook/clean/obama_classifier_min_binder.ipynb  .
+
