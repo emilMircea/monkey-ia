@@ -2,8 +2,8 @@
 
 ### The monkey guessing game
 
-Label               | Latin Name             | Common Name                  |
-------------------- | ---------------------- | ----------------------------- ----------------------
+Label               | Latin Name             | Common Name                  
+------------------- | ---------------------- | ----------------------------- 
 `n0`                | `alouatta_palliata`    | mantled_howler
 `n1`                | `erythrocebus_patas`   | patas_monkey
 `n2`                | `cacajao_calvus`       | bald_uakari
